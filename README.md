@@ -2,6 +2,8 @@
 **Repeating Loops with Hacked Posnets and Lego Machines**  
 By Vladimiro Bellini  
 
+<img src="media/5-FINAL RESULT/IMG_4875.jpg" alt="media/5-FINAL RESULT/IMG_4875.jpg" style="zoom:50%;" />
+
 ---
 
 ## **The Idea**  
@@ -56,6 +58,10 @@ Explore the process through images and videos organized in stages:
    - Directory: `media/5-FINAL RESULT/`  
 
 Watch the final video: [Motion Déjà Vu - Final Result](https://drive.google.com/file/d/1WLMs06SpHBSuM0FlCfjuWMw5PFljoRdn/view)  
+
+
+
+<img src="media/4-LEGO MACHINE/WhatsApp Image 2025-01-21 at 3.44.58 PM.jpeg" alt="media/4-LEGO MACHINE/WhatsApp Image 2025-01-21 at 3.44.58 PM.jpeg" style="zoom:50%;" />
 
 ---
 
