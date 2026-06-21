@@ -78,3 +78,6 @@ Watch the final video: [Motion Déjà Vu - Final Result](https://drive.google.co
 - **Technical assistance:** Gonza  
 
 ---
+## License
+
+MIT License — © 2026 [Vladimiro Bellini](https://github.com/vlasvlasvlas). Free to use and modify, attribution required.
